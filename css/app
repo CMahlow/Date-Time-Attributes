@@ -1,0 +1,17 @@
+input {
+    margin: 1em;
+    padding: .3em;
+    background: white;
+}
+
+h2 {
+  font-size: 170%;
+  padding: 1em;
+  width: 20em;
+  background: yellow;
+  border-radius: 15px;
+}
+
+body {
+    background: lightyellow;
+}
